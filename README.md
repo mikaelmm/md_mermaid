@@ -1,4 +1,4 @@
-<script src="../dist/mermaid.js"></script>
+<script src="../js/mermaid.js"></script>
 <script>
     var config = {
         startOnLoad:true,
