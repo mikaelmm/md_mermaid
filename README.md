@@ -1,14 +1,6 @@
-<script src="../js/mermaid.js"></script>
-<script>
-    var config = {
-        startOnLoad:true,
-        flowchart:{
-            useMaxWidth:false,
-            htmlLabels:true
-        }
-    };
-    mermaid.initialize(config);
-</script>
+ <script src="./mermaid.min.js"></script>
+ <link rel="stylesheet" href="./mermaid.css">
+ <script>mermaid.initialize({startOnLoad:true});</script>
 
 # md_mermaid
 probando mermaid en markdown
