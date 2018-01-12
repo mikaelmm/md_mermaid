@@ -1,5 +1,5 @@
- <script src="./mermaid.min.js"></script>
- <link rel="stylesheet" href="./mermaid.css">
+ <script src="./js/mermaid.js"></script>
+ <link rel="stylesheet" href="./css/mermaid.forest.min.css">
  <script>mermaid.initialize({startOnLoad:true});</script>
 
 # md_mermaid
